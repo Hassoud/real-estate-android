@@ -1,3 +1,3 @@
-# android-starter
+# real-estate-android
 
-My Android Starter Project
+My Real Estate Android Project
